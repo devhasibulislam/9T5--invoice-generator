@@ -46,5 +46,5 @@ export const initialInvoice: Invoice = {
   notesLabel: 'Notes',
   notes: 'It was great doing business with you.',
   termLabel: 'Terms & Conditions',
-  term: 'Please make the payment by the due date.',
+  term: 'Contact me \n Email: devhasibulislam@gmail.com \n Phone: +8801906315901 (WhatsApp/Telegram) \n Portfolio: https://bento.me/devhasibulislam',
 }
