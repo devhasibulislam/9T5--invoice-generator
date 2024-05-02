@@ -2,7 +2,7 @@
 
 React Invoice Generator allows you quickly make invoices and save them as PDF. [https://imvoice.vercel.app/](https://imvoice.vercel.app/)
 
-![react-invoice-generator](https://raw.githubusercontent.com/tuanpham-dev/react-invoice-generator/master/screenshot.png)
+![react-invoice-generator](https://raw.githubusercontent.com/devhasibulislam/invoice-generator/master/screenshot.png)
 
 ## Available Scripts
 
