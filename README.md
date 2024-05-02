@@ -1,6 +1,6 @@
 # React Invoice Generator
 
-React Invoice Generator allows you quickly make invoices and save them as PDF. [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
+React Invoice Generator allows you quickly make invoices and save them as PDF. [https://imvoice.vercel.app/](https://imvoice.vercel.app/)
 
 ![react-invoice-generator](https://raw.githubusercontent.com/tuanpham-dev/react-invoice-generator/master/screenshot.png)
 
@@ -24,7 +24,7 @@ https://prettier.io/
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `dist` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
